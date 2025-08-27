@@ -5,3 +5,6 @@
 #git add .: Adiciona todo os arquivos modificados à área de preparação (staging)
 #git commit -m "primeiro commit": Cria um novo commit com os arquivos da área de preparação e uma mensagem explicativa
 #git log: Mostra o histórico de commits do repositório
+
+
+#Alteração qualquer
