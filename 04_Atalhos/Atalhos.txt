@@ -1,0 +1,3 @@
+Comando para comentar linhas: ctrl+k+c
+
+Comando para DEScomentar linhas: ctrl+k+u

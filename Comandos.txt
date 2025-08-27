@@ -1,0 +1,7 @@
+Para saber o tipo de uma variável:
+    print(type(idade))
+
+
+Para converter o tipo de uma variável:
+    idade = int(input("Digite a sua idade: "))
+    altura = float(input("Digite sua altura: "))
