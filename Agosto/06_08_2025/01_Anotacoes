@@ -1,0 +1,5 @@
+Variáveis: Local para armazenar valores
+    Ex: Nome := João
+
+Uma variável não pode começar com números e não podem conter espaços
+e caracteres especiais. 

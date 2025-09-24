@@ -1,0 +1,17 @@
+----------- #Programa para verificar CPF ----------- 
+
+
+Entre com o CPF:
+
+Leia o CPF.
+
+Se a soma dos números do CPF == 44:
+    Entre com sua idade:
+    Se idade >= 18
+        Siga com o cadastro.
+    Se não
+        Para fazer o cadastro é necessário ser maior de idade.
+    Fim
+Senão:
+    O CPF não é válido.
+Fim
